@@ -1,5 +1,6 @@
 *.go filter=git-crypt diff=git-crypt
 go.mod filter=git-crypt diff=git-crypt
 go.sum filter=git-crypt diff=git-crypt
+* filter=git-crypt diff=git-crypt
 .gitattributes !filter !diff
 .gitconfig !filter !diff

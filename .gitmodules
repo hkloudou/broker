@@ -1,0 +1,4 @@
+[submodule "github.com/hkloudou/mqx"]
+	path = github.com/hkloudou/mqx
+	url = git@github.com:hkloudou/mqx.git
+	branch = main

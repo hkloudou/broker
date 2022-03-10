@@ -1,6 +1,6 @@
 go 1.18
 
 use (
-	broker
-	module/mqx
+	app/broker
+	github.com/hkloudou/mqx
 )
